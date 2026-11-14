@@ -74,4 +74,8 @@ Multi-language support, semantic embeddings, admin dashboard to edit FAQs,
 database storage, live-agent handoff, analytics on unanswered questions.
 
 ## Author
-Your Name | Enrollment No. | Course / Programme
+Khushi Purohit – A914145025018
+A. Manasa – A914145025026
+Samriddhi Singha – A914145025013
+Pooja – A914145025001
+|MCA 3rd Sem
