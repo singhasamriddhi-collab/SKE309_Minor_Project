@@ -56,4 +56,8 @@ Multi-language support, LLM-based answer generation, admin dashboard to edit FAQ
 database storage, live-agent handoff, analytics on unanswered questions.
 
 ## Author
-Your Name | Enrollment No. | Course / Programme
+Samriddhi Singha (A914145025013)
+A.Manasa (A914145025026)
+Khushi Purohit (A914145025018)
+Pooja (A914145025001)
+Program : MCA 3rd Sem
